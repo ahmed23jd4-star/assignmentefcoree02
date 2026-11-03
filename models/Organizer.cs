@@ -21,5 +21,6 @@ namespace assignmentefcore02.models
         public bool IsVerified { get; set; }
         public OrganizerProfile OrganizerProfilenav { get; set; }
         public HashSet<Event> events = new HashSet<Event>();
+
     }
 }

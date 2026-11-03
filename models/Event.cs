@@ -17,5 +17,6 @@ namespace assignmentefcore02.models
         public int organizerid{ get; set; }
         public Organizer organizers{ get; set; }
 
+
     }
 }

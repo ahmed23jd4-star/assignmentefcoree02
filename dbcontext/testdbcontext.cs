@@ -25,6 +25,7 @@ namespace assignmentefcore02.dbcontext
                 .WithOne(b => b.badgenav)
                 .HasForeignKey<badge>(b => b.attendid);
 
+
             }
             );
             modelBuilder.ApplyConfiguration(new eventconfiqure());

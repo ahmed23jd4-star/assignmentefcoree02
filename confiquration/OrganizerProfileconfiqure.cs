@@ -11,6 +11,7 @@ namespace assignmentefcore02.confiquration
 {
     internal class OrganizerProfileconfiqure : IEntityTypeConfiguration<OrganizerProfile>
     {
+
         public void Configure(EntityTypeBuilder<OrganizerProfile> builder)
         {
             builder.ToTable("OrganizerProfiles").HasKey(o => o.id);

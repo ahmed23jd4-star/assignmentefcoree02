@@ -16,6 +16,7 @@ namespace assignmentefcore02.models
 
 
 
+
     }
     public enum BadgeTier
     {

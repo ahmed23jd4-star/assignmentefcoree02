@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace assignmentefcore02.confiquration
+
 {
     internal class eventconfiqure : IEntityTypeConfiguration<Event>
     {
