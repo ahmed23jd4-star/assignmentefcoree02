@@ -14,5 +14,6 @@ namespace assignmentefcore02.models
         public string? LogoUrl { get; set; }
         public int OrganizerId { get; set; }
         public Organizer Organizers { get; set; }
+
     }
 }

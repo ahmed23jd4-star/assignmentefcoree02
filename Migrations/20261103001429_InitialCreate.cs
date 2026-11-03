@@ -66,6 +66,7 @@ namespace assignmentefcore02.Migrations
                 });
 
             migrationBuilder.CreateTable(
+
                 name: "events",
                 columns: table => new
                 {

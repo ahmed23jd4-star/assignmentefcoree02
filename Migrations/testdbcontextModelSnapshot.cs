@@ -9,6 +9,7 @@ using assignmentefcore02.dbcontext;
 #nullable disable
 
 namespace assignmentefcore02.Migrations
+
 {
     [DbContext(typeof(testdbcontext))]
     partial class testdbcontextModelSnapshot : ModelSnapshot

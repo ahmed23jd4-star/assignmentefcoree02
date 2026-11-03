@@ -29,5 +29,6 @@ namespace assignmentefcore02.models
         public badge badgenav{ get; set; }
 
 
+
     }
 }
